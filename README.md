@@ -36,3 +36,5 @@ Users are incentivized to create rankings and rank others similar to the reddit 
 - Beli is particularlly interesting since they offer new functionality not as a monetization tactic but as an engagement and retention tactic. 
   - New functionality (ie. reccomendations) are only unlocked after you rank/review X number of items, providing an incentive for deeper usage/engagement and a reason to stay after you've hit that depth of usage.  
   - This app will operate similar to that.
+
+## 🎨 Designs (coming soon)
