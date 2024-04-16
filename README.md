@@ -15,7 +15,7 @@
 - Run `yarn start` or `npm run start` to try it out.
 
 ## ☎️ Pitch
-![Rake Logo](./assets/images/Rake-logo.png)
+![Rake Logo](./assets/images/Rake-logo.png)  
 Rake is a React Native app that empowers users to rank anything and everything imaginable, from movies and restaurants to running routes to wine and beyond.  
 With an AI powered intuitive search functionality, users can easily discover and explore the items they wish to rank.
 
