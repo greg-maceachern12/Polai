@@ -19,6 +19,7 @@ Rake is a React Native app that empowers users to rank anything and everything i
 With an AI powered intuitive search functionality, users can easily discover and explore the items they wish to rank.
 
 Think of it like a cross between Reddit, Tiktok and Yelp.  
+
 For example, a user could rank a movie they just saw like Dune 2, or a resturant they just went to, or a wine they just tried. This app should be the one stop shop for all ranking by gamifying/socializing it.
 
 ## 📝 Notes (raw)
