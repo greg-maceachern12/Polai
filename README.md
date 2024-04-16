@@ -1,4 +1,4 @@
-# Tab navigation example
+# RankIt
 
 <p>
   <!-- iOS -->
