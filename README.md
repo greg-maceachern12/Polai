@@ -1,5 +1,5 @@
-# Rake
-![Rake Logo](./assets/images/Rake-logo.png)  
+# Polai
+![Polai Logo](./assets/images/Polai.jpg)  
 <p>
   <!-- iOS -->
   <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
@@ -12,10 +12,10 @@
 ## 🚀 How to use
 
 - Install with `yarn` or `npm install`.
-- Run `yarn start` or `npm run start` to try it out.
+- Run `yarn start` or `npm start` to try it out.
 
 ## ☎️ Pitch
-Rake is a React Native app that empowers users to rank anything and everything imaginable, from movies and restaurants to running routes to wine and beyond.  
+Polai is a React Native app that empowers users to rank anything and everything imaginable, from movies and restaurants to running routes to wine and beyond.  
 With an AI powered intuitive search functionality, users can easily discover and explore the items they wish to rank.
 
 Think of it like a cross between Reddit, Tiktok and Yelp.  
